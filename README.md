@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Felix
+A developer focused on building free, open-source online tools for education and productivity.
 
-<!--
-**254360258qq-stack/254360258qq-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Open Source Tools
+| Tool | Badges | Description | Live Demo |
+|------|--------|-------------|-----------|
+| Morse Code Generator | ![GitHub stars](https://img.shields.io/github/stars/254360258qq-stack/morsecode-generator?style=flat-square) | Free online tool for encoding/decoding text to Morse code (with audio playback & visual feedback) | [morsecode-generator.com](https://morsecode-generator.com) |
+| ACS Citation Generator | ![GitHub stars](https://img.shields.io/github/stars/254360258qq-stack/acscitationgenerator?style=flat-square) | Free ACS style citation generator for chemistry/academic papers | [acscitationgenerator.com](https://acscitationgenerator.com) |
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=254360258qq-stack&show_icons=true&theme=dark)
+
+## 📫 Connect
+- 🌐 Tools: [morse code generator](https://morsecode-generator.com) | [acs citation generator](https://acscitationgenerator.com)
+- 💻 GitHub: [@254360258qq-stack](https://github.com/254360258qq-stack)
